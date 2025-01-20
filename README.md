@@ -1,7 +1,7 @@
 # altschool2
 deploying a HTML file
 # Deploying an HTML File to a Web Server Using Apache
-Public address:51.20.95.70
+Public address:13.53.155.192
 
 ## Prerequisites
 - A Linux server (e.g., Ubuntu)
